@@ -1,6 +1,6 @@
 # RAG from Scratch
 
-This repository contains notebooks and code examples related to the course ["RAG from Scratch"](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=3s) offered by [Langsmith](https://www.langchain.com/langsmith). The course provides a comprehensive introduction to Retrieval-Augmented Generation (RAG), covering essential concepts, strategies, and implementations.
+This repository contains notebooks and code examples related to the course ["RAG from Scratch"](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=3s) offered by [LangSmith](https://www.langchain.com/langsmith). The course provides a comprehensive introduction to Retrieval-Augmented Generation (RAG), covering essential concepts, strategies, and implementations.
 ![RAG](https://github.com/user-attachments/assets/669bccea-3164-42e6-bf07-4e75ac16b942)
 
 
