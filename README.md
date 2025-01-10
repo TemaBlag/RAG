@@ -29,3 +29,19 @@ This tutorial explores five levels of text splitting, an effective strategy for 
 ## Notebooks
 
 Each notebook contains detailed comments explaining the code and concepts, as well as modifications made to adapt the code for use with Hugging Face API keys instead of OpenAI API keys.
+
+Beginner's guides:
+
+* Introduction_LangChain (_Beginner's Guide_): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Introduction_LangChain.ipynb)
+* Hugging_Face_qa_models: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Hugging_Face_qa_models.ipynb)
+* 5_Levels_Of_Text_Splitting: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/5_Levels_Of_Text_Splitting.ipynb)
+  
+---
+
+Course:
+* Introduction_RAG: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Introduction_RAG.ipynb)
+* Query_Translation: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Query_Translation.ipynb)
+* Routing_and_Query_Construction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Routing_and_Query_Construction.ipynb)
+* Indexing: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/Indexing.ipynb)
+* ReRanking: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/RAG/blob/main/ReRanking.ipynb)
+
