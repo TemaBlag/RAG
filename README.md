@@ -1,7 +1,7 @@
 # RAG from Scratch & Text Splitting Techniques
 
 This repository contains notebooks and code examples related to the course ["RAG from Scratch"](https://www.youtube.com/watch?v=sVcwVQRHIc8&t=3s) offered by [LangSmith](https://www.langchain.com/langsmith). The course provides a comprehensive introduction to Retrieval-Augmented Generation (RAG), covering essential concepts, strategies, and implementations and explore the 5 levels of text splitting from tutorial by [Greg Kamradt](https://www.youtube.com/watch?v=8OJC21T2SL4&t=3274s).
-![RAG](https://github.com/user-attachments/assets/669bccea-3164-42e6-bf07-4e75ac16b942)
+![RAG](https://res.cloudinary.com/daaivmxff/image/upload/v1736505645/rag_nelryy.png)
 
 
 ## Course Overview
